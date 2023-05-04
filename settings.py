@@ -1,0 +1,7 @@
+NAME_BASICS: str = r"imdb-data/name.basics.tsv.gz"
+TITLE_AKAS: str = r"imdb-data/title.akas.tsv.gz"
+TITLE_BASICS: str = r"imdb-data/title.basics.tsv.gz"
+TITLE_CREW: str = r"imdb-data/title.crew.tsv.gz"
+TITLE_EPISODE: str = r"imdb-data/title.episode.tsv.gz"
+TITLE_PRINCIPALS: str = r"imdb-data/title.principals.tsv.gz"
+TITLE_RATINGS: str = r"imdb-data/title.ratings.tsv.gz"
